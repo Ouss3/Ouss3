@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"  />
+<img align="right" height="150" src="https://hackernoon.com/images/f2px36fy.gif"  />
 
 ###
 
